@@ -55,7 +55,7 @@ See: `data_links.md`
 ## Usage
 
 1. Launch the setup notebook in Google Colab:  
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hector-ahg/predictive-microbiology-course/00_setup_colab.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hector-ahg/predictive-microbiology-course//blob/main/notebooks/00_setup_colab.ipynb)
 
    This notebook will automatically clone this repository and configure the working environment.
 
