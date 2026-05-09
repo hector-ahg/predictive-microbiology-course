@@ -1,0 +1,43 @@
+# Data (DO NOT TRACK)
+*.zip
+*.fasta 
+*.fastq.qz 
+*.bam 
+*.sam
+
+# Ignore classifier
+pipeline/qiime2/classifiers/**
+
+# Ignore raw sequences
+dataset/ibdmdb_hmp2/raw_sequences/**
+
+# Ignore results_table
+
+results_tables/**
+
+# Ignore everything under raw_results
+raw_results/**
+
+# Re-allow folder structure
+
+!raw_results/dada2_0_trunc/
+!raw_results/dada2_0_trunc/taxa_export/
+!raw_results/dada2_0_trunc/table_export/
+
+!raw_results/picrust2_out/
+!raw_results/picrust2_out/EC_metagenome_out/
+
+# Re-allow ONLY desired files
+
+!raw_results/dada2_0_trunc/taxa_export/taxonomy.tsv
+!raw_results/dada2_0_trunc/table_export/feature-table.tsv
+
+!raw_results/picrust2_out/EC_metagenome_out/pred_metagenome_contrib.tsv.gz
+
+# System
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
