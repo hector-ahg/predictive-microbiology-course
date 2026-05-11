@@ -11,6 +11,10 @@ pipeline/qiime2/classifiers/**
 # Ignore raw sequences
 dataset/ibdmdb_hmp2/raw_sequences/**
 
+# Ignore Midas data, it will be an external file
+dataset/midas4/**
+dataset/midas5/**
+
 # Ignore results_table
 
 results_tables/**
