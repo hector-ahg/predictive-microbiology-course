@@ -1,0 +1,34 @@
+predictive_microbiology_workshop_UNAM/
+│
+├── notebooks/                      
+│   ├── 01_python_basics.ipynb
+│   ├── 02_data_handling.ipynb
+│   ├── 03_microbiome_outputs.ipynb
+│   ├── 04_functional_profiles.ipynb
+│   ├── 05_data_integration.ipynb
+│   ├── 06_machine_learning.ipynb
+│   └── 07_project_template.ipynb
+│
+├── pipeline/                      
+│   ├── README.md                   
+│   ├── dada2/
+│   │   └── run_dada2.sh
+│   └── picrust2/
+│       └── run_picrust2.sh
+│
+├── docs/                           
+│   ├── syllabus.md
+│   └── qiime2_overview.md         
+│
+├── scripts/                        
+│   └── utils.py
+│
+├── figures/
+├── README.md
+├── data_links.md                   
+└── .gitignore
+
+
+
+
+

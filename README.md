@@ -54,13 +54,15 @@ See: `data_links.md`
 
 ## Usage
 
-1. Launch the setup notebook in Google Colab:  
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hector-ahg/predictive-microbiology-course//blob/main/notebooks/00_setup_colab.ipynb)
+The course consists of multiple NUMBERED Jupyter Notebooks in Google Colab. We will go through them in the following order:
 
-   This notebook will automatically clone this repository and configure the working environment.
+1. Introduction to Python:  
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hector-ahg/predictive-microbiology-course/blob/main/notebooks/00_intro_to_python.ipynb)
 
-2. Work through the NUMBERED NOTEBOOKS sequentially in Colab (recommended environment).
 
-3. Alternatively, you may clone the repository locally:
+2. Python data analysis with Pandas and Matplotlib:  
+   [![Open In Colab](https://github.com/hector-ahg/predictive-microbiology-course/blob/main/notebooks/01_python_data_analysis_with_pandas_and_matplotlib.ipynb)
+
+Work through the NUMBERED NOTEBOOKS sequentially in Colab (recommended environment). Alternatively, you may clone the repository locally:
    ```bash
    git clone https://github.com/hector-ahg/predictive-microbiology-course.git
