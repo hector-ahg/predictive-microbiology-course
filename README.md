@@ -63,6 +63,6 @@ The course consists of multiple NUMBERED Jupyter Notebooks in Google Colab. We w
 2. Python data analysis with Pandas and Matplotlib:  
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/hector-ahg/predictive-microbiology-course/blob/main/notebooks/01_python_data_analysis_with_pandas_and_matplotlib.ipynb)
 
-Work through the NUMBERED NOTEBOOKS sequentially in Colab (recommended environment). Alternatively, you may clone the repository locally:
+Work through the NUMBERED NOTEBOOKS sequentially in Colab (recommended environment). Alternatively, you can clone the repository locally:
    ```bash
    git clone https://github.com/hector-ahg/predictive-microbiology-course.git
