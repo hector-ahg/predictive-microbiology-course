@@ -52,7 +52,7 @@ All datasets (raw sequencing data) are downloaded from external sources. Full pi
 
 ## Usage
 
-The course consists of multiple NUMBERED Jupyter Notebooks in Google Colab. We will go through them in the following order:
+The course consists of multiple NUMBERED Jupyter Notebooks in Google Colab (recommended environment). We will go through them in the following order:
 
 1. Introduction to Python  
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hector-ahg/predictive-microbiology-course/blob/main/notebooks/00_intro_to_python.ipynb)
@@ -60,8 +60,9 @@ The course consists of multiple NUMBERED Jupyter Notebooks in Google Colab. We w
 2. Python Data Analysis with Pandas and Matplotlib  
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hector-ahg/predictive-microbiology-course/blob/main/notebooks/01_python_data_analysis_with_pandas_and_matplotlib.ipynb)
 
-3. 
+3. Analysis of Microbial Communities with QIIME2 in Colab
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hector-ahg/predictive-microbiology-course/blob/main/notebooks/02_qiime2_in_colab.ipynb)
 
-Work through the NUMBERED NOTEBOOKS sequentially in Colab (recommended environment). Alternatively, you can clone the repository locally:
+Alternatively, you can clone the repository locally:
    ```bash
    git clone https://github.com/hector-ahg/predictive-microbiology-course.git
