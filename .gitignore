@@ -17,26 +17,10 @@ dataset/midas5/**
 
 # Ignore results_table
 
-results_tables/**
+results_tables_for_ml/**
 
 # Ignore everything under raw_results
-raw_results/**
-
-# Re-allow folder structure
-
-!raw_results/dada2_0_trunc/
-!raw_results/dada2_0_trunc/taxa_export/
-!raw_results/dada2_0_trunc/table_export/
-
-!raw_results/picrust2_out/
-!raw_results/picrust2_out/EC_metagenome_out/
-
-# Re-allow ONLY desired files
-
-!raw_results/dada2_0_trunc/taxa_export/taxonomy.tsv
-!raw_results/dada2_0_trunc/table_export/feature-table.tsv
-
-!raw_results/picrust2_out/EC_metagenome_out/pred_metagenome_contrib.tsv.gz
+results/**
 
 # System
 .DS_Store

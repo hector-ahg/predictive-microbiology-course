@@ -46,9 +46,7 @@ The workshop is organized into the following modules:
 
 ## Data Availability
 
-All large datasets (raw sequencing data and full pipeline outputs) are hosted externally to keep this repository lightweight and fast to clone.
-
-See: `data_links.md`
+All datasets (raw sequencing data) are downloaded from external sources. Full pipeline output from QIIME2 and PICRUST2 are hosted externally to keep this repository lightweight and fast to clone. 
 
 ---
 
@@ -61,6 +59,8 @@ The course consists of multiple NUMBERED Jupyter Notebooks in Google Colab. We w
 
 2. Python Data Analysis with Pandas and Matplotlib  
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hector-ahg/predictive-microbiology-course/blob/main/notebooks/01_python_data_analysis_with_pandas_and_matplotlib.ipynb)
+
+3. 
 
 Work through the NUMBERED NOTEBOOKS sequentially in Colab (recommended environment). Alternatively, you can clone the repository locally:
    ```bash
