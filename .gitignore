@@ -10,7 +10,7 @@ pipeline/qiime2/classifiers/**
 
 # Ignore raw sequences and manifests
 dataset/ibdmdb_hmp2/raw_sequences/**
-dataset/ibdmdb_hmp2/manifests/**
+dataset/ibdmdb_hmp2/manifests/
 
 # Ignore Midas data, it will be an external file
 dataset/midas4/**
