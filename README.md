@@ -62,9 +62,11 @@ The course consists of multiple NUMBERED Jupyter Notebooks in Google Colab (reco
 
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hector-ahg/predictive-microbiology-course/blob/main/notebooks/01_python_data_analysis_with_pandas_and_matplotlib.ipynb)
 
-3. Analysis of Microbial Communities with QIIME2 in Colab
+3. Inference of taxonomic composition and fucntions in QIIME2 and PICRUST2 in Colab
 
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hector-ahg/predictive-microbiology-course/blob/main/notebooks/02_qiime2_in_colab.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hector-ahg/predictive-microbiology-course/blob/main/notebooks/02_qiime2_and_picrust2_in_colab.ipynb)
+
+
 
 Alternatively, you can clone the repository locally:
    ```bash
