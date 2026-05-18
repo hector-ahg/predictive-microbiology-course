@@ -55,19 +55,26 @@ All datasets (raw sequencing data) are downloaded from external sources. Full pi
 
 The course consists of multiple NUMBERED Jupyter Notebooks in Google Colab (recommended environment). We will go through them in the following order:
 
-1. Introduction to Python  
+0. Introduction to Python  
 
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hector-ahg/predictive-microbiology-course/blob/main/notebooks/00_intro_to_python.ipynb)
 
-2. Python Data Analysis with Pandas and Matplotlib  
+1. Python Data Analysis with Pandas and Matplotlib  
 
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hector-ahg/predictive-microbiology-course/blob/main/notebooks/01_python_data_analysis_with_pandas_and_matplotlib.ipynb)
 
 
-3. Inference of taxonomic composition and fucntions in QIIME2 and PICRUST2 in Colab
+2. Inference of taxonomic composition and fucntions in QIIME2 and PICRUST2 in Colab
 
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hector-ahg/predictive-microbiology-course/blob/main/notebooks/02_qiime2_picrust2_in_colab.ipynb)
 
+3. Exploratory microbiome analysis
+   
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hector-ahg/predictive-microbiology-course/blob/main/notebooks/03_exploratory_microbiome_analysis.ipynb)
+
+4. Microbiome-meta data integration and multivarate analysis
+
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hector-ahg/predictive-microbiology-course/blob/main/notebooks/04_microbiome_metadata_integration_and_multivariate_analysis.ipynb)
 
 Alternatively, you can clone the repository locally:
    ```bash
