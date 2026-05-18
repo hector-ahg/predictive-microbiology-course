@@ -37,10 +37,11 @@ The workshop is organized into the following modules:
 
 ## Repository Structure
 
+- `dataset/` – Manifests and Metadata of IBDMDB HMP2 dataset
+- `docs/` – Course Program and Slides
 - `notebooks/` – Main course notebooks (Colab-ready)
-- `pipeline/` – Reference QIIME 2 and PICRUSt2 workflows
-- `scripts/` – Helper functions and utilities
-- `data_links.md` – External dataset download links (Zenodo / cloud storage)
+- `pipeline/` – Reference QIIME 2 and PICRUSt2 workflows in bash
+
 
 ---
 

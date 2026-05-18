@@ -12,6 +12,9 @@ pipeline/qiime2/classifiers/**
 dataset/ibdmdb_hmp2/raw_sequences/**
 dataset/ibdmdb_hmp2/manifests/
 
+# Ignore Figures folder
+figures/
+
 # Ignore Midas data, it will be an external file
 dataset/midas4/**
 dataset/midas5/**
