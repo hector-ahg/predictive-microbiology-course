@@ -53,7 +53,7 @@ All datasets (raw sequencing data) are downloaded from external sources. Full pi
 
 ## Usage
 
-The course consists of multiple NUMBERED Jupyter Notebooks in Google Colab (recommended environment). We will go through them in the following order:
+The course consists of multiple NUMBERED Jupyter Notebooks in Google Colab (recommended working environment for this course). We will go through them in the following order:
 
 0. Introduction to Python  
 
@@ -64,7 +64,7 @@ The course consists of multiple NUMBERED Jupyter Notebooks in Google Colab (reco
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hector-ahg/predictive-microbiology-course/blob/main/notebooks/01_python_data_analysis_with_pandas_and_matplotlib.ipynb)
 
 
-2. Inference of taxonomic composition and fucntions in QIIME2 and PICRUST2 in Colab
+2. Inference of taxonomic composition and functions in QIIME2 and PICRUST2 in Colab
 
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hector-ahg/predictive-microbiology-course/blob/main/notebooks/02_qiime2_picrust2_in_colab.ipynb)
 
@@ -76,6 +76,6 @@ The course consists of multiple NUMBERED Jupyter Notebooks in Google Colab (reco
 
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hector-ahg/predictive-microbiology-course/blob/main/notebooks/04_microbiome_metadata_integration_and_multivariate_analysis.ipynb)
 
-Alternatively, you can clone the repository locally:
+Alternatively, you can clone (and modify) the repository locally:
    ```bash
    git clone https://github.com/hector-ahg/predictive-microbiology-course.git
