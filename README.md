@@ -76,6 +76,10 @@ The course consists of multiple NUMBERED Jupyter Notebooks in Google Colab (reco
 
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hector-ahg/predictive-microbiology-course/blob/main/notebooks/04_microbiome_metadata_integration_and_multivariate_analysis.ipynb)
 
+5. Prediction of bowel disease state with machine learning
+
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hector-ahg/predictive-microbiology-course/blob/main/notebooks/05_predictive_microbial_ecology.ipynb)
+
 Alternatively, you can clone (and modify) the repository locally:
    ```bash
    git clone https://github.com/hector-ahg/predictive-microbiology-course.git
